@@ -2,9 +2,6 @@
 
 **BITS Pilani, WILP — M.Tech (AIML/DSE) — Machine Learning, Assignment 2**
 
-> ⚠️ Replace the Streamlit Cloud placeholder link in the Live Links section
-> below after deploying, before submitting.
-
 **Name:** Tulasi Lalitendra Venkata Prasanna Sathwik  **BITS ID:** 2025AC05643
 
 ---
@@ -122,5 +119,5 @@ streamlit run app.py        # launches the interactive demo locally
 
 ## Live Links
 
-- **Live Streamlit App:** `\<PASTE YOUR STREAMLIT CLOUD APP LINK HERE\>`
+- **Live Streamlit App:** **https://churn-prediction-5-models-app-mfj5syaq4zileo8pkew6a9.streamlit.app/**
 - **BITS Virtual Lab Screenshot:** _(attach separately in your submission PDF)_
