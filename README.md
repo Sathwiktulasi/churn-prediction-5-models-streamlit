@@ -82,7 +82,7 @@ equidistant, and neighbor tie-breaking is platform-dependent.)*
 ## Repository Structure
 
 ```
-telco-churn-ml-app/
+churn-prediction-5-models-streamlit/
 │-- app.py                 # Streamlit app
 │-- requirements.txt
 │-- README.md
