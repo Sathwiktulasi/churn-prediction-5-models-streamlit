@@ -2,8 +2,8 @@
 
 **BITS Pilani, WILP — M.Tech (AIML/DSE) — Machine Learning, Assignment 2**
 
-> ⚠️ Replace the placeholder links in Section (c) and the Live Links section
-> below with your own GitHub and Streamlit Cloud links before submitting.
+> ⚠️ Replace the Streamlit Cloud placeholder link in the Live Links section
+> below after deploying, before submitting.
 
 **Name:** Tulasi Lalitendra Venkata Prasanna Sathwik  **BITS ID:** 2025AC05643
 
@@ -49,7 +49,7 @@ performance.
 
 ## c. GitHub Repository Link
 
-`\<PASTE YOUR GITHUB REPOSITORY LINK HERE\>`
+**https://github.com/Sathwiktulasi/churn-prediction-5-models-streamlit**
 
 ## d. Models Used
 
