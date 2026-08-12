@@ -70,7 +70,7 @@ def compute_metrics(y_true, y_pred, y_proba):
 def main():
     st.title("📊 Telco Customer Churn — Multi-Model Classifier Demo")
     st.caption(
-        "BITS Pilani M.Tech (AIML/DSE) — Machine Learning Assignment 2. "
+        "BITS Pilani M.Tech (AIML) — Machine Learning Assignment 2. "
         "Upload the test dataset, pick a model, and view live evaluation results."
     )
 

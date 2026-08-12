@@ -1,6 +1,6 @@
 # Telco Customer Churn — Multi-Model Classification & Streamlit Demo
 
-**BITS Pilani, WILP — M.Tech (AIML/DSE) — Machine Learning, Assignment 2**
+**BITS Pilani, WILP — M.Tech (AIML) — Machine Learning, Assignment 2**
 
 **Name:** Tulasi Lalitendra Venkata Prasanna Sathwik  **BITS ID:** 2025AC05643
 
